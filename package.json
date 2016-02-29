@@ -1,10 +1,9 @@
 {
   "name": "print-atom",
   "main": "./lib/print-atom",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Prints current atom window",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "print-atom:print"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
