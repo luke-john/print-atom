@@ -1,7 +1,7 @@
 {
   "name": "print-atom",
   "main": "./lib/print-atom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Prints current atom window",
   "keywords": [],
   "activationCommands": {
